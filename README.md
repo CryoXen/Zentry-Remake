@@ -28,23 +28,6 @@
 ---
 
 
-## 🔧 Instalación
-
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/zentry-remake.git
-   ```
-2. Instala las dependencias:
-   ```bash
-   cd zentry-remake
-   npm install
-   ```
-3. Inicia el servidor de desarrollo:
-   ```bash
-   npm run dev
-   ```
-
----
 
 
 
