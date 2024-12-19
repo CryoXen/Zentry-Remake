@@ -7,26 +7,7 @@
 
 
 
-**Zentry Remake** es un proyecto inspirado en el sitio [Zentry](https://zentry.com), recreado con tecnologías modernas y un enfoque en animaciones fluidas y diseño minimalista.
-
-### 🌟 Características
-
-- **Interfaz Minimalista**: Reinterpretación del diseño limpio y profesional del sitio original.
-- **Animaciones Dinámicas**: Integración con GSAP para transiciones y efectos visuales impactantes.
-- **Rendimiento Óptimo**: Uso de Vite para un desarrollo rápido y compilación eficiente.
-- **Estilos Modernos**: Estilizado con TailwindCSS para una personalización ágil y consistente.
-
----
-
-## 🛠️ Tecnologías Utilizadas
-
-- **[React](https://reactjs.org/)**: Biblioteca para construir interfaces de usuario.
-- **[Vite](https://vitejs.dev/)**: Herramienta de desarrollo rápida y ligera.
-- **[TailwindCSS](https://tailwindcss.com/)**: Framework de utilidades CSS para diseño estilizado y responsivo.
-- **[GSAP](https://greensock.com/gsap/)**: Biblioteca para crear animaciones fluidas y complejas.
-
----
-
+**Zentry Remake** es un proyecto inspirado en el sitio [Zentry](https://zentry.com), recreado con las tecnologias que se mencionan anteriormente, forma parte de una practica para mejorar las habilidades de javaScript, reutilización de componentes en React, integración de animaciones y diseño responsivo.
 
 
 
